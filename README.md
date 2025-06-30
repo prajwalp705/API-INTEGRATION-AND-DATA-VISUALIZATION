@@ -51,21 +51,38 @@ seaborn: To enhance visual appeal and readability of charts.
 
 3. Visual Studio Code (VS Code):
 
-VS Code was used as the coding environment for this project. It is a lightweight yet powerful editor that supports Python development via extensions. Features such as IntelliSense, integrated terminal, and debugging make it ideal for scripting and data tasks.
+VS Code was used as the coding environment for this project. It is a lightweight yet powerful editor that supports Python development via extensions. Features such as IntelliSense, integrated terminal, and 
+
+debugging make it ideal for scripting and data tasks.
+
+OUTCOME:
+
 
 The final outcome of the project was a Python script that could dynamically fetch real-time weather data and produce a visually appealing graph showing temperature forecasts. This task not only helped in 
 
-understanding how to work with APIs and JSON data but also improved skills in data parsing, visualization, and real-world problem-solving using Python. It also reinforced best practices in software development
+understanding how to work with APIs and JSON data but also improved skills in data parsing, visualization, and real-world problem-solving using Python. 
 
-using VS Code, where features like real-time error checking, code formatting, and extension integrations contributed to a smooth development experience. Overall, this project successfully achieved the deliverable
+It also reinforced best practices in software development
 
-of creating a Python-based script and visualization dashboard, fulfilling all the task requirements effectively.This project solves the problem of transforming complex, raw weather forecast data into an easy-to-
+using VS Code, where features like real-time error checking, code formatting, and extension integrations contributed to a smooth development experience. 
 
-understand visual format for better decision-making and analysis. Weather data provided by public APIs like OpenWeatherMap is often returned in JSON format, which can be difficult for non-technical users to 
+Overall, this project successfully achieved the deliverable
 
-interpret. By integrating this API with Python and creating automated visualizations, the project bridges the gap between raw data and human-readable insights. It enables users—such as travelers, city planners,
+of creating a Python-based script and visualization dashboard, fulfilling all the task requirements effectively.This project solves the problem of transforming complex,
 
-or researchers—to quickly grasp future temperature trends, make informed plans, and detect patterns like heatwaves or cold spells in advance. This solution also demonstrates how real-time data can be 
+raw weather forecast data into an easy-to-
+
+understand visual format for better decision-making and analysis. Weather data provided by public APIs like OpenWeatherMap is often returned in JSON format,
+
+which can be difficult for non-technical users to 
+
+interpret. By integrating this API with Python and creating automated visualizations, the project bridges the gap between raw data and human-readable insights. 
+
+It enables users—such as travelers, city planners,
+
+or researchers—to quickly grasp future temperature trends, make informed plans, and detect patterns like heatwaves or cold spells in advance.
+
+This solution also demonstrates how real-time data can be 
 
 programmatically accessed and converted into meaningful visual dashboards without manual intervention. In essence, it transforms scattered forecast data into actionable intelligence using technology, coding, and
 
