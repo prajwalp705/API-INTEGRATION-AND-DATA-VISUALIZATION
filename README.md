@@ -71,5 +71,7 @@ programmatically accessed and converted into meaningful visual dashboards withou
 
 visualization, making it valuable in both personal and professional contexts
 
+![Image](https://github.com/user-attachments/assets/f7687531-9b03-49c7-be8b-5c6d7a5a9ebb)
+
 
 
